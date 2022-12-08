@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "1",
+        "cpf": "1",
+        "rg": "1",
+        "idade": "1",
+        "telefone": "1",
+        "email": "1",
+        "sexo": "1",
+        "cep": "1",
+        "senha": "1"
+    },
+    {
+        "nome": "vitoria",
+        "cpf": "5",
+        "rg": "5 tudo certo",
+        "idade": "5",
+        "telefone": "8",
+        "email": "7",
+        "sexo": "]",
+        "cep": "4",
+        "senha": "6"
+    },
+    {
+        "nome": "2",
+        "cpf": "2",
+        "rg": "2",
+        "idade": "2",
+        "telefone": "2",
+        "email": "2",
+        "sexo": "2",
+        "cep": "2",
+        "senha": "2"
+    }
+]
