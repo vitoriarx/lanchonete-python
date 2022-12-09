@@ -1,10 +1,18 @@
 [
     {
-        "nome_do_prato": " okk tambem 5",
-        "preco": "2"
+        "nome_do_prato": "CupCake",
+        "preco": "5,50"
     },
     {
-        "nome_do_prato": "maionese",
-        "preco": "55"
+        "nome_do_prato": "Bolo de chocolate",
+        "preco": "25,90"
+    },
+    {
+        "nome_do_prato": "Torta doce",
+        "preco": "21,80"
+    },
+    {
+        "nome_do_prato": "Café gelado",
+        "preco": "5,20"
     }
 ]

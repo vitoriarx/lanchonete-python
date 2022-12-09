@@ -3,7 +3,7 @@ from common.commons import Common
 from cadastro.cadastroGeral import CadastroGeral
 from insert.inserts import Inserts
 
-#instancias
+
 salva = Inserts()
 cadastro = CadastroGeral()
 common = Common()
